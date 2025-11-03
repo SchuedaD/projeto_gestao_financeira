@@ -1,0 +1,3 @@
+receita|Uber|522.0|2025-10-31|
+despesa|contas de casa|600.0|2025-11-01|Casa
+receita|salario|2000.0|2025-11-02|
