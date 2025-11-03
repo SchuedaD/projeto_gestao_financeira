@@ -2,7 +2,7 @@
 
 ## Descrição
 
-## Trata-se de um projeto em python para gerenciar finanças pessoais, permitindo o registro de receitas e despesas, categorização de transações e geração de relatórios financeiros. 
+Trata-se do meu primeiro  em python para gerenciar finanças pessoais, permitindo o registro de receitas e despesas, categorização de transações e geração de relatórios financeiros. 
 
 ## Como Usar
 1. Execute: `python sistema_financeiro.py`
@@ -25,4 +25,7 @@ David Schueda - Primeiro Projeto em Python
 
 ## Melhorias em andamento 
 
-- Gráficos para um melhor controle financeiro 
+- Base de dados em SQLite
+- Análise gráfica com Matplotlib em notebook
+
+
