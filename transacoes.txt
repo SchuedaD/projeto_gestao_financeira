@@ -1,177 +1,262 @@
-receita|Uber|522.0|2025-10-31|
-despesa|contas de casa|600.0|2025-11-01|Casa
-receita|salario|2000.0|2025-11-02|
-receita|Salário mensal|5800.0|2025-01-05|
-despesa|Aluguel apartamento|1900.0|2025-01-05|Moradia
-despesa|Supermercado Carrefour|478.9|2025-01-06|Alimentação
-despesa|Conta de luz|134.5|2025-01-07|Utilidades
+receita|Salário mensal|14500.0|2025-01-05|
+receita|Freelance desenvolvimento web|4500.0|2025-01-08|
+receita|Consultoria TI|3200.0|2025-01-15|
+receita|Rendimentos investimentos|380.0|2025-01-20|
+despesa|Aluguel apartamento|2500.0|2025-01-05|Moradia
+despesa|Condomínio|480.0|2025-01-05|Moradia
+despesa|Supermercado Pão de Açúcar|580.0|2025-01-06|Alimentação
+despesa|Conta de luz|165.0|2025-01-07|Utilidades
 despesa|Internet fibra 500MB|99.9|2025-01-07|Utilidades
 despesa|Netflix|44.9|2025-01-08|Entretenimento
-receita|Freelance desenvolvimento app|1500.0|2025-01-10|
-despesa|Combustível posto Ipiranga|285.0|2025-01-10|Transporte
-despesa|Farmácia Pacheco|72.3|2025-01-11|Saúde
-despesa|Sushi delivery|112.0|2025-01-12|Alimentação
-despesa|Academia BlueFit|119.9|2025-01-15|Saúde
-despesa|Spotify Family|34.9|2025-01-15|Entretenimento
-receita|Venda console PS4|1100.0|2025-01-16|
-despesa|Padaria artesanal|32.5|2025-01-16|Alimentação
-despesa|99 corrida|28.7|2025-01-17|Transporte
-despesa|Conta de água|85.6|2025-01-18|Utilidades
-despesa|Shopee - carregador notebook|225.0|2025-01-19|Eletrônicos
-despesa|iFood hambúrguer|73.0|2025-01-20|Alimentação
-receita|Salário mensal|5800.0|2025-02-05|
-despesa|Aluguel apartamento|1900.0|2025-02-05|Moradia
-despesa|Curso online Alura|85.0|2025-02-06|Educação
-despesa|Material home office|234.5|2025-02-07|Trabalho
-despesa|Supermercado Assaí|523.8|2025-02-08|Alimentação
-receita|Projeto consultoria TI|3200.0|2025-02-10|
-despesa|Restaurante Valentine Day|289.0|2025-02-14|Alimentação
+despesa|Spotify Premium|34.9|2025-01-08|Entretenimento
+despesa|Combustível Shell|280.0|2025-01-10|Transporte
+despesa|Academia Smart Fit|129.9|2025-01-10|Saúde
+despesa|Plano de saúde Unimed|420.0|2025-01-11|Saúde
+despesa|Jantar restaurante|160.0|2025-01-12|Alimentação
+despesa|Uber corridas|125.0|2025-01-14|Transporte
+despesa|Feira orgânica|186.0|2025-01-16|Alimentação
+despesa|Padaria|38.0|2025-01-17|Alimentação
+despesa|Conta de água|82.0|2025-01-18|Utilidades
+despesa|Amazon Prime|19.9|2025-01-19|Entretenimento
+despesa|iFood delivery|78.0|2025-01-20|Alimentação
+despesa|Investimento CDB|4000.0|2025-01-25|Investimentos
+despesa|Reserva emergência|2000.0|2025-01-25|Poupança
+despesa|Mercado extra|234.0|2025-01-28|Alimentação
+despesa|Farmácia|89.0|2025-01-30|Saúde
+receita|Salário mensal|14500.0|2025-02-05|
+receita|Projeto app mobile|5200.0|2025-02-10|
+receita|Mentoria programação|2200.0|2025-02-12|
+receita|Cashback Nubank|125.0|2025-02-20|
+receita|Dividendos ações|290.0|2025-02-25|
+despesa|Aluguel apartamento|2500.0|2025-02-05|Moradia
+despesa|Condomínio|480.0|2025-02-05|Moradia
+despesa|Curso online|79.9|2025-02-06|Educação
+despesa|Livros técnicos|256.0|2025-02-07|Educação
+despesa|Supermercado Carrefour|620.0|2025-02-08|Alimentação
+despesa|Restaurante Valentine|320.0|2025-02-14|Alimentação
 despesa|Presente namorada|450.0|2025-02-14|Presentes
-despesa|Combustível Shell|298.0|2025-02-15|Transporte
-despesa|Plano de saúde Unimed|425.0|2025-02-16|Saúde
-despesa|Dentista checkup|250.0|2025-02-17|Saúde
-despesa|Amazon Prime|19.9|2025-02-18|Entretenimento
-despesa|Zara roupas|356.8|2025-02-19|Vestuário
-receita|Cashback Nubank|67.0|2025-02-20|
-despesa|Açougue premium|145.6|2025-02-20|Alimentação
-receita|Salário mensal|5800.0|2025-03-05|
-despesa|Aluguel apartamento|1900.0|2025-03-05|Moradia
-despesa|IPTU parcela 1/10|145.0|2025-03-06|Impostos
-despesa|Material escolar filho|389.0|2025-03-07|Educação
-despesa|Uniforme escola|456.0|2025-03-08|Educação
-receita|Venda bike antiga|850.0|2025-03-09|
-despesa|Rodízio pizza|98.0|2025-03-10|Alimentação
-despesa|Mercado atacado|678.9|2025-03-11|Alimentação
-despesa|Show ingressos|240.0|2025-03-12|Entretenimento
-despesa|Combustível BR|312.0|2025-03-13|Transporte
-despesa|Pedágio Ecovias|58.4|2025-03-14|Transporte
-receita|Freelance logo design|1200.0|2025-03-15|
-despesa|CrossFit mensalidade|289.0|2025-03-15|Saúde
-despesa|Nutricionista esportiva|350.0|2025-03-16|Saúde
-despesa|Whey e creatina|298.0|2025-03-17|Saúde
-receita|Salário mensal|6200.0|2025-04-05|
-despesa|Aluguel apartamento|1900.0|2025-04-05|Moradia
-receita|Bônus performance|2100.0|2025-04-06|
-despesa|IPVA parcela 1/3|623.0|2025-04-07|Impostos
-despesa|Licenciamento DETRAN|165.0|2025-04-08|Impostos
-despesa|Supermercado Pão de Açúcar|567.3|2025-04-09|Alimentação
-despesa|Feira orgânica|123.5|2025-04-10|Alimentação
-despesa|Cafés especiais|67.8|2025-04-11|Alimentação
-despesa|Disney+ anual|279.9|2025-04-12|Entretenimento
-despesa|PlayStation Plus|199.9|2025-04-13|Entretenimento
-receita|Venda notebook velho|2300.0|2025-04-14|
-despesa|Oftalmologista exame|380.0|2025-04-15|Saúde
-despesa|Óculos de grau novo|1250.0|2025-04-16|Saúde
-despesa|Combustível posto BR|334.0|2025-04-17|Transporte
-despesa|Estacionamento mensal|280.0|2025-04-18|Transporte
-receita|Salário mensal|6200.0|2025-05-05|
-despesa|Aluguel apartamento|1900.0|2025-05-05|Moradia
-despesa|Presente Dia das Mães|380.0|2025-05-11|Presentes
-despesa|Almoço especial mães|345.0|2025-05-11|Alimentação
-despesa|Buquê flores importadas|189.0|2025-05-11|Presentes
-receita|Freelance consultoria|2800.0|2025-05-14|
-despesa|Supermercado St Marche|634.7|2025-05-15|Alimentação
-despesa|Padaria francesa|56.3|2025-05-16|Alimentação
-despesa|Combustível Ipiranga|356.0|2025-05-17|Transporte
-despesa|Lavagem detalhada carro|120.0|2025-05-18|Transporte
-despesa|Pilates mensalidade|420.0|2025-05-19|Saúde
-despesa|Personal trainer 8 aulas|800.0|2025-05-20|Saúde
-despesa|Checkup completo|890.0|2025-05-21|Saúde
-receita|Venda móveis usados|1800.0|2025-05-22|
-despesa|MacBook Pro M3|12500.0|2025-05-23|Eletrônicos
-receita|Salário mensal|6200.0|2025-06-05|
-despesa|Aluguel apartamento|1900.0|2025-06-05|Moradia
-despesa|Festa junina material|234.0|2025-06-10|Entretenimento
-despesa|Quentão e comidas típicas|189.0|2025-06-11|Alimentação
-despesa|Roupas quadrilha|267.0|2025-06-12|Vestuário
-receita|Décimo terceiro 1ª parcela|3100.0|2025-06-15|
-despesa|Resort Maragogi - pacote|4500.0|2025-06-20|Viagem
-despesa|Passagem aérea ida/volta|1890.0|2025-06-20|Viagem
-despesa|Passeios turísticos|780.0|2025-06-21|Viagem
-despesa|Restaurantes viagem|1234.0|2025-06-22|Viagem
-despesa|Supermercado Zona Sul|456.8|2025-06-24|Alimentação
-despesa|Conta de luz verão|289.4|2025-06-25|Utilidades
-despesa|NET combo total|349.9|2025-06-26|Utilidades
-despesa|Condomínio|520.0|2025-06-27|Moradia
-receita|Salário mensal|6200.0|2025-07-05|
-despesa|Aluguel apartamento|1900.0|2025-07-05|Moradia
-despesa|Colônia férias criança|890.0|2025-07-07|Educação
-despesa|Cinema família|145.0|2025-07-08|Entretenimento
-despesa|Parque diversões|340.0|2025-07-09|Entretenimento
-receita|Projeto extra UI/UX|4200.0|2025-07-10|
-despesa|Supermercado Carrefour|712.3|2025-07-11|Alimentação
-despesa|Churrasco amigos|456.0|2025-07-12|Alimentação
-despesa|Bebidas festa|234.0|2025-07-13|Alimentação
-despesa|Combustível viagem|445.0|2025-07-14|Transporte
-despesa|Hotel serra|890.0|2025-07-15|Viagem
-despesa|Restaurantes serra|567.0|2025-07-16|Viagem
-despesa|Teleférico e passeios|234.0|2025-07-17|Viagem
-despesa|Outlet roupas inverno|890.0|2025-07-18|Vestuário
-despesa|Botas e casacos|1234.0|2025-07-19|Vestuário
-despesa|Manutenção carro|1567.0|2025-07-20|Transporte
-despesa|Seguro auto renovação|2100.0|2025-07-21|Transporte
-receita|Rendimentos investimentos|456.78|2025-07-22|
-despesa|Veterinário vacinas|340.0|2025-07-23|Pets
-despesa|Ração premium 15kg|289.0|2025-07-24|Pets
-despesa|Pet shop banho/tosa|120.0|2025-07-25|Pets
-despesa|Conta luz ar condicionado|378.9|2025-07-26|Utilidades
-despesa|Condomínio|520.0|2025-07-27|Moradia
-despesa|Supermercado mês|823.4|2025-07-28|Alimentação
-despesa|Farmácia medicamentos|234.5|2025-07-29|Saúde
-despesa|Netflix + upgrades|89.9|2025-07-30|Entretenimento
-despesa|Assinaturas digitais|156.7|2025-07-31|Trabalho
-receita|Salário mensal|6200.0|2025-08-05|
-despesa|Aluguel apartamento|1900.0|2025-08-05|Moradia
-despesa|Mensalidade escola|1890.0|2025-08-06|Educação
-despesa|Material escolar 2º sem|567.0|2025-08-07|Educação
-despesa|Livros didáticos|890.0|2025-08-08|Educação
-receita|Freelance website|5600.0|2025-08-09|
-despesa|Supermercado Pão de Açúcar|934.5|2025-08-10|Alimentação
-despesa|Açougue e peixaria|456.7|2025-08-11|Alimentação
-despesa|Combustível Shell|389.0|2025-08-12|Transporte
-despesa|Uber viagens diversas|234.8|2025-08-13|Transporte
-despesa|Academia natação|340.0|2025-08-14|Saúde
-despesa|Fisioterapia 10 sessões|1200.0|2025-08-15|Saúde
-despesa|Presente Dia dos Pais|567.0|2025-08-16|Presentes
-despesa|Churrasco Dia dos Pais|890.0|2025-08-17|Alimentação
-despesa|Conta de água|123.4|2025-08-18|Utilidades
-despesa|Internet 1GB|189.9|2025-08-19|Utilidades
-despesa|Streaming pacote completo|234.8|2025-08-20|Entretenimento
-receita|Venda equipamento foto|3400.0|2025-08-21|
-despesa|iPhone 15 Pro|8900.0|2025-08-22|Eletrônicos
-despesa|AirPods Pro|2100.0|2025-08-23|Eletrônicos
-despesa|Capas e acessórios|456.0|2025-08-24|Eletrônicos
-despesa|Jantar aniversário|678.0|2025-08-25|Alimentação
-despesa|Condomínio|520.0|2025-08-26|Moradia
-despesa|IPTU parcela 6/10|145.0|2025-08-27|Impostos
-despesa|Supermercado compra mês|1234.6|2025-08-28|Alimentação
-despesa|Manutenção preventiva|678.0|2025-08-29|Transporte
-despesa|Plano saúde familiar|1890.0|2025-08-30|Saúde
-despesa|Seguro residencial|890.0|2025-08-31|Moradia
-receita|Salário mensal|6500.0|2025-09-05|
-despesa|Aluguel apartamento|1900.0|2025-09-05|Moradia
-receita|PLR empresa|8900.0|2025-09-06|
-despesa|IPVA parcela 2/3|623.0|2025-09-07|Impostos
-despesa|Revisão 60.000 km|2340.0|2025-09-08|Transporte
-despesa|Pneus novos set/4|2100.0|2025-09-09|Transporte
-despesa|Supermercado Zona Sul|1045.8|2025-09-10|Alimentação
-despesa|Hortifruti orgânico|234.5|2025-09-11|Alimentação
-despesa|Combustível Ipiranga|423.0|2025-09-12|Transporte
-despesa|Estacionamento mensal|340.0|2025-09-13|Transporte
-despesa|Academia Smart Fit|149.9|2025-09-14|Saúde
-despesa|Nutricionista retorno|280.0|2025-09-15|Saúde
-despesa|Suplementação trimestre|890.0|2025-09-16|Saúde
-receita|Projeto app finalizado|7800.0|2025-09-17|
-despesa|Home theater Samsung|3490.0|2025-09-18|Eletrônicos
-despesa|TV 65" OLED|6789.0|2025-09-19|Eletrônicos
-despesa|Móveis sala novos|8900.0|2025-09-20|Casa
-despesa|Decoração e quadros|1234.0|2025-09-21|Casa
-despesa|Iluminação smart|890.0|2025-09-22|Casa
-despesa|Conta de luz|345.6|2025-09-23|Utilidades
-despesa|Internet e streaming|456.8|2025-09-24|Utilidades
-despesa|Água e esgoto|167.9|2025-09-25|Utilidades
-despesa|Condomínio|520.0|2025-09-26|Moradia
-despesa|Supermercado final mês|1567.9|2025-09-27|Alimentação
-despesa|Restaurante comemoração|890.0|2025-09-28|Alimentação
-despesa|Presente aniversário amigo|345.0|2025-09-29|Presentes
-despesa|Barbeiro e cuidados|189.0|2025-09-30|Cuidados pessoais
+despesa|Combustível Ipiranga|295.0|2025-02-15|Transporte
+despesa|Plano de saúde|420.0|2025-02-16|Saúde
+despesa|Dentista limpeza|220.0|2025-02-17|Saúde
+despesa|Disney+|43.9|2025-02-18|Entretenimento
+despesa|Roupas|340.0|2025-02-19|Vestuário
+despesa|Açougue|158.0|2025-02-20|Alimentação
+despesa|Feira|142.0|2025-02-21|Alimentação
+despesa|Conta luz|154.0|2025-02-22|Utilidades
+despesa|Internet|99.9|2025-02-23|Utilidades
+despesa|Investimento ações|5000.0|2025-02-25|Investimentos
+despesa|Poupança|2500.0|2025-02-25|Poupança
+despesa|Restaurante|189.0|2025-02-27|Alimentação
+receita|Salário mensal|14500.0|2025-03-05|
+receita|Bônus trimestral|7200.0|2025-03-05|
+receita|Freelance landing page|3400.0|2025-03-10|
+receita|Rendimentos FIIs|340.0|2025-03-25|
+despesa|Aluguel apartamento|2500.0|2025-03-05|Moradia
+despesa|Condomínio|480.0|2025-03-05|Moradia
+despesa|IPTU parcela 1/10|178.0|2025-03-06|Impostos
+despesa|Seguro carro anual|1980.0|2025-03-07|Transporte
+despesa|Supermercado|750.0|2025-03-08|Alimentação
+despesa|Pizza delivery|98.0|2025-03-10|Alimentação
+despesa|Mercado|386.0|2025-03-11|Alimentação
+despesa|Cinema IMAX|120.0|2025-03-12|Entretenimento
+despesa|Combustível BR|318.0|2025-03-13|Transporte
+despesa|Manutenção carro|680.0|2025-03-14|Transporte
+despesa|Academia CrossFit|289.0|2025-03-15|Saúde
+despesa|Nutricionista|350.0|2025-03-16|Saúde
+despesa|Suplementos|285.0|2025-03-17|Saúde
+despesa|Utensílios cozinha|450.0|2025-03-18|Casa
+despesa|Conta água|96.0|2025-03-19|Utilidades
+despesa|Energia elétrica|169.0|2025-03-20|Utilidades
+despesa|Investimento FIIs|6000.0|2025-03-25|Investimentos
+despesa|Reserva viagem|3000.0|2025-03-25|Poupança
+despesa|Barbeiro|80.0|2025-03-28|Cuidados pessoais
+despesa|Pet shop|120.0|2025-03-30|Pets
+receita|Salário mensal|14500.0|2025-04-05|
+receita|13° salário primeira parcela|7250.0|2025-04-05|
+receita|Consultoria empresarial|6800.0|2025-04-08|
+receita|Projeto extra|2800.0|2025-04-15|
+receita|Rendimentos|420.0|2025-04-28|
+despesa|Aluguel apartamento|2500.0|2025-04-05|Moradia
+despesa|Condomínio|480.0|2025-04-05|Moradia
+despesa|IPVA parcela 1/3|680.0|2025-04-07|Impostos
+despesa|Licenciamento|178.0|2025-04-08|Impostos
+despesa|Supermercado|825.0|2025-04-09|Alimentação
+despesa|Feira orgânica|164.0|2025-04-10|Alimentação
+despesa|Cafés especiais|72.0|2025-04-11|Alimentação
+despesa|PlayStation Plus|249.0|2025-04-12|Entretenimento
+despesa|Jogos PS5|350.0|2025-04-13|Entretenimento
+despesa|Oftalmologista|350.0|2025-04-15|Saúde
+despesa|Óculos de grau|1280.0|2025-04-16|Saúde
+despesa|Combustível|348.0|2025-04-17|Transporte
+despesa|Estacionamento mensal|290.0|2025-04-18|Transporte
+despesa|Restaurante|240.0|2025-04-19|Alimentação
+despesa|Happy hour|280.0|2025-04-20|Alimentação
+despesa|Investimento crypto|4000.0|2025-04-25|Investimentos
+despesa|CDB|5000.0|2025-04-25|Investimentos
+despesa|Mercado extra|456.0|2025-04-27|Alimentação
+despesa|Roupas|389.0|2025-04-29|Vestuário
+receita|Salário mensal|14500.0|2025-05-05|
+receita|Freelance consultoria UX|4200.0|2025-05-10|
+receita|Palestra evento tech|3000.0|2025-05-15|
+receita|Cashback cartão|189.0|2025-05-20|
+receita|Dividendos|480.0|2025-05-30|
+despesa|Aluguel apartamento|2500.0|2025-05-05|Moradia
+despesa|Condomínio|480.0|2025-05-05|Moradia
+despesa|Presente Dia das Mães|480.0|2025-05-11|Presentes
+despesa|Almoço especial|350.0|2025-05-11|Alimentação
+despesa|Flores|180.0|2025-05-11|Presentes
+despesa|Supermercado|920.0|2025-05-15|Alimentação
+despesa|Padaria|65.0|2025-05-16|Alimentação
+despesa|Combustível|362.0|2025-05-17|Transporte
+despesa|Lavagem carro|120.0|2025-05-18|Transporte
+despesa|Personal trainer|780.0|2025-05-19|Saúde
+despesa|Academia|129.9|2025-05-20|Saúde
+despesa|Checkup anual|980.0|2025-05-21|Saúde
+despesa|Tênis corrida|690.0|2025-05-22|Vestuário
+despesa|Roupas esporte|356.0|2025-05-23|Vestuário
+despesa|Conta luz|178.0|2025-05-24|Utilidades
+despesa|Internet|99.9|2025-05-25|Utilidades
+despesa|Investimento Tesouro|5500.0|2025-05-26|Investimentos
+despesa|Fundo emergência|2500.0|2025-05-27|Poupança
+despesa|Restaurante|234.0|2025-05-29|Alimentação
+receita|Salário mensal|14500.0|2025-06-05|
+receita|Bônus semestral|9800.0|2025-06-05|
+receita|Projeto internacional|8900.0|2025-06-10|
+receita|Rendimentos|560.0|2025-06-20|
+despesa|Aluguel apartamento|2500.0|2025-06-05|Moradia
+despesa|Condomínio|480.0|2025-06-05|Moradia
+despesa|Festa junina|285.0|2025-06-10|Entretenimento
+despesa|Comidas típicas|190.0|2025-06-11|Alimentação
+despesa|Viagem Nordeste|3200.0|2025-06-20|Viagem
+despesa|Passagem aérea|1800.0|2025-06-20|Viagem
+despesa|Hotel resort|1900.0|2025-06-21|Viagem
+despesa|Passeios|1250.0|2025-06-22|Viagem
+despesa|Supermercado|580.0|2025-06-24|Alimentação
+despesa|Conta luz|215.0|2025-06-25|Utilidades
+despesa|NET combo|289.0|2025-06-26|Utilidades
+despesa|Restaurantes|670.0|2025-06-27|Alimentação
+despesa|Investimento exterior|7000.0|2025-06-28|Investimentos
+despesa|Previdência privada|2000.0|2025-06-29|Investimentos
+despesa|Mercado extra|345.0|2025-06-30|Alimentação
+receita|Salário mensal|14500.0|2025-07-05|
+receita|Projeto mobile app|6400.0|2025-07-10|
+receita|Consultoria remota|4200.0|2025-07-15|
+receita|Rendimentos investimentos|720.0|2025-07-25|
+receita|Cashback|234.0|2025-07-31|
+despesa|Aluguel apartamento|2500.0|2025-07-05|Moradia
+despesa|Condomínio|480.0|2025-07-05|Moradia
+despesa|Cinema família|140.0|2025-07-08|Entretenimento
+despesa|Parque diversões|380.0|2025-07-09|Entretenimento
+despesa|Supermercado|820.0|2025-07-11|Alimentação
+despesa|Churrasco|580.0|2025-07-12|Alimentação
+despesa|Bebidas|320.0|2025-07-13|Alimentação
+despesa|Combustível|420.0|2025-07-14|Transporte
+despesa|Hotel serra|980.0|2025-07-15|Viagem
+despesa|Restaurantes viagem|680.0|2025-07-16|Viagem
+despesa|Passeios|460.0|2025-07-17|Viagem
+despesa|Outlet compras|1250.0|2025-07-18|Vestuário
+despesa|Sapatos|690.0|2025-07-19|Vestuário
+despesa|Revisão carro|1490.0|2025-07-20|Transporte
+despesa|Seguro auto|2150.0|2025-07-21|Transporte
+despesa|Veterinário|340.0|2025-07-23|Pets
+despesa|Ração premium|280.0|2025-07-24|Pets
+despesa|Pet shop|140.0|2025-07-25|Pets
+despesa|Conta luz AC|278.0|2025-07-26|Utilidades
+despesa|Investimento renda fixa|6500.0|2025-07-28|Investimentos
+despesa|Ações|4000.0|2025-07-29|Investimentos
+receita|Salário mensal|14500.0|2025-08-05|
+receita|Freelance sistema web|7200.0|2025-08-09|
+receita|Workshop online|3400.0|2025-08-12|
+receita|Dividendos|890.0|2025-08-20|
+receita|Rendimentos|456.0|2025-08-31|
+despesa|Aluguel apartamento|2500.0|2025-08-05|Moradia
+despesa|Condomínio|480.0|2025-08-05|Moradia
+despesa|Curso especialização|1900.0|2025-08-06|Educação
+despesa|Certificação|750.0|2025-08-07|Educação
+despesa|Livros|356.0|2025-08-08|Educação
+despesa|Supermercado|980.0|2025-08-10|Alimentação
+despesa|Açougue premium|480.0|2025-08-11|Alimentação
+despesa|Combustível|386.0|2025-08-12|Transporte
+despesa|Uber diversos|320.0|2025-08-13|Transporte
+despesa|Academia natação|350.0|2025-08-14|Saúde
+despesa|Fisioterapia|1100.0|2025-08-15|Saúde
+despesa|Presente Dia dos Pais|650.0|2025-08-16|Presentes
+despesa|Churrasco|890.0|2025-08-17|Alimentação
+despesa|Conta água|114.0|2025-08-18|Utilidades
+despesa|Internet 1GB|179.0|2025-08-19|Utilidades
+despesa|Streaming|189.0|2025-08-20|Entretenimento
+despesa|iPad Pro|8200.0|2025-08-22|Eletrônicos
+despesa|Acessórios|480.0|2025-08-24|Eletrônicos
+despesa|Jantar aniversário|720.0|2025-08-25|Alimentação
+despesa|IPTU parcela 6/10|178.0|2025-08-27|Impostos
+despesa|Investimento ETFs|5000.0|2025-08-28|Investimentos
+despesa|Bitcoin|3000.0|2025-08-29|Investimentos
+receita|Salário mensal|15000.0|2025-09-05|
+receita|PLR empresa|18500.0|2025-09-06|
+receita|Projeto enterprise|9800.0|2025-09-10|
+receita|Consultoria|3600.0|2025-09-15|
+receita|Rendimentos trimestre|1450.0|2025-09-30|
+despesa|Aluguel apartamento|2500.0|2025-09-05|Moradia
+despesa|Condomínio|480.0|2025-09-05|Moradia
+despesa|IPVA parcela 2/3|680.0|2025-09-07|Impostos
+despesa|Revisão 60.000 km|2280.0|2025-09-08|Transporte
+despesa|Pneus novos|2400.0|2025-09-09|Transporte
+despesa|Supermercado|1134.0|2025-09-10|Alimentação
+despesa|Hortifruti|248.0|2025-09-11|Alimentação
+despesa|Combustível|428.0|2025-09-12|Transporte
+despesa|Estacionamento|340.0|2025-09-13|Transporte
+despesa|Academia|129.9|2025-09-14|Saúde
+despesa|Nutricionista|300.0|2025-09-15|Saúde
+despesa|Suplementação|920.0|2025-09-16|Saúde
+despesa|TV 65" OLED|6900.0|2025-09-19|Eletrônicos
+despesa|Soundbar|2400.0|2025-09-20|Eletrônicos
+despesa|Sofá novo|4800.0|2025-09-21|Casa
+despesa|Mesa jantar|3200.0|2025-09-22|Casa
+despesa|Iluminação|980.0|2025-09-23|Casa
+despesa|Conta luz|329.0|2025-09-24|Utilidades
+despesa|Internet e streaming|389.0|2025-09-25|Utilidades
+despesa|Água|169.0|2025-09-26|Utilidades
+despesa|Supermercado final|1580.0|2025-09-27|Alimentação
+despesa|Restaurante especial|980.0|2025-09-28|Alimentação
+despesa|Investimento diversificado|10000.0|2025-09-29|Investimentos
+despesa|Reserva objetivos|4500.0|2025-09-30|Poupança
+receita|Salário mensal|15000.0|2025-10-05|
+receita|Projeto SaaS|8200.0|2025-10-08|
+receita|Mentoria tech|2800.0|2025-10-12|
+receita|Freelance|3900.0|2025-10-18|
+receita|Rendimentos|890.0|2025-10-25|
+receita|Uber reembolso|522.0|2025-10-31|
+receita|Cashback|420.0|2025-10-31|
+despesa|Aluguel apartamento|2500.0|2025-10-05|Moradia
+despesa|Condomínio|480.0|2025-10-05|Moradia
+despesa|IPTU parcela 7/10|178.0|2025-10-06|Impostos
+despesa|Notebook upgrade|12800.0|2025-10-07|Eletrônicos
+despesa|Monitor 4K|1890.0|2025-10-08|Eletrônicos
+despesa|Setup escritório|2650.0|2025-10-09|Trabalho
+despesa|Supermercado|1290.0|2025-10-10|Alimentação
+despesa|Vinhos|690.0|2025-10-11|Alimentação
+despesa|Combustível|406.0|2025-10-12|Transporte
+despesa|Manutenção|680.0|2025-10-13|Transporte
+despesa|CrossFit|350.0|2025-10-14|Saúde
+despesa|Personal|960.0|2025-10-15|Saúde
+despesa|Exames|580.0|2025-10-16|Saúde
+despesa|Viagem praia|2800.0|2025-10-17|Viagem
+despesa|Hotel|1600.0|2025-10-18|Viagem
+despesa|Gastronomia|1260.0|2025-10-19|Viagem
+despesa|Compras|690.0|2025-10-20|Vestuário
+despesa|Conta luz|268.0|2025-10-21|Utilidades
+despesa|Internet|179.0|2025-10-22|Utilidades
+despesa|Software assinaturas|356.0|2025-10-23|Trabalho
+despesa|Presente|580.0|2025-10-24|Presentes
+despesa|Happy hour|340.0|2025-10-25|Alimentação
+despesa|Investimento FIIs|7000.0|2025-10-26|Investimentos
+despesa|Tesouro IPCA|4000.0|2025-10-27|Investimentos
+despesa|Supermercado|1690.0|2025-10-28|Alimentação
+despesa|Farmácia|194.0|2025-10-29|Saúde
+despesa|Barbeiro|100.0|2025-10-30|Cuidados pessoais
+receita|Salário mensal|15000.0|2025-11-05|
+receita|Freelance dashboard|5200.0|2025-11-02|
+receita|Consultoria estratégica|4600.0|2025-11-03|
+despesa|Aluguel apartamento|2500.0|2025-11-05|Moradia
+despesa|Condomínio|480.0|2025-11-05|Moradia
+despesa|Contas casa|600.0|2025-11-01|Casa
